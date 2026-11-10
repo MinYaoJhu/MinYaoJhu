@@ -56,7 +56,7 @@ Study notes, exercises and practice code from books and tools I have worked thro
 | <img src="https://raw.githubusercontent.com/MinYaoJhu/Tidy_Modeling/main/assets/logo.svg" width="36" align="center"/> [**Tidy_Modeling**](https://github.com/MinYaoJhu/Tidy_Modeling) | *Tidy Modeling with R* (Kuhn & Silge) | Statistical modeling and machine learning with tidymodels, plus practice-problem solutions |
 | <img src="https://raw.githubusercontent.com/MinYaoJhu/Deep_Learning_MinYaoJhu/main/assets/logo.svg" width="36" align="center"/> [**Deep_Learning_MinYaoJhu**](https://github.com/MinYaoJhu/Deep_Learning_MinYaoJhu) | *Deep Learning with R* (Chollet & Allaire) | Neural networks with Keras in R, plus an *Arabidopsis* coding-sequence prediction project |
 | [**OSTA_Practice_Repository**](https://github.com/MinYaoJhu/OSTA_Practice_Repository) | *Orchestrating Spatial Transcriptomics Analysis with Bioconductor* | Spatial transcriptomics with Bioconductor |
-| [**SeuratExtend_learning**](https://github.com/MinYaoJhu/SeuratExtend_learning) | SeuratExtend | Extended single-cell visualization and analysis with Seurat |
+| <img src="https://raw.githubusercontent.com/MinYaoJhu/SeuratExtend_learning/main/assets/logo.svg" width="36" align="center"/> [**SeuratExtend_learning**](https://github.com/MinYaoJhu/SeuratExtend_learning) | Seurat & SeuratExtend tutorials | Single-cell workflow, publication-quality plots, and trajectory analysis (scVelo, Palantir, Slingshot) |
 | [**Monocle3_learning**](https://github.com/MinYaoJhu/Monocle3_learning) | Monocle 3 | Single-cell trajectory and pseudotime analysis |
 | [**hdWGCNA_learning**](https://github.com/MinYaoJhu/hdWGCNA_learning) | hdWGCNA | Co-expression network analysis for single-cell and spatial data |
 
