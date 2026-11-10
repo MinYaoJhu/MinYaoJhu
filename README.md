@@ -38,7 +38,7 @@ Plant developmental biologist using **spatial and single-cell transcriptomics** 
 ## 📄 Selected publications
 
 - **Jhu M-Y**\*, *et al.*, Oldroyd G\* (2026). 4D spatial transcriptomics reveals nodule identity emerges through stacked parallel developmental programs. *bioRxiv*. [doi:10.64898/2026.06.23.733685](https://doi.org/10.64898/2026.06.23.733685)
-- **Jhu M-Y**\*, Minne M\*, *et al.* (2026). Unlocking the full potential of spatial omics in plants: practical challenges, solutions, and a path forward. *The Plant Cell*. [doi:10.1093/plcell/koag282](https://doi.org/10.1093/plcell/koag282)
+- **Jhu M-Y**\*, *et al.* (2026). Unlocking the full potential of spatial omics in plants: practical challenges, solutions, and a path forward. *The Plant Cell*. [doi:10.1093/plcell/koag282](https://doi.org/10.1093/plcell/koag282)
 - **Jhu M-Y**\*, *et al.* (2026). Plant-compatible Xenium in situ sequencing: protocol for spatial transcriptomics in *Medicago truncatula* roots and nodules. *Methods in Molecular Biology*. [doi:10.1007/978-1-0716-5272-5_16](https://doi.org/10.1007/978-1-0716-5272-5_16)
 - **Jhu M-Y**, *et al.*, Sinha NR\* (2022). Heinz-resistant tomato cultivars exhibit a lignin-based resistance to field dodder (*Cuscuta campestris*) parasitism. *Plant Physiology* 189: 129–151. [doi:10.1093/plphys/kiac024](https://doi.org/10.1093/plphys/kiac024)
 - **Jhu M-Y**, Ichihashi Y, Farhi M, Wong C, Sinha NR\* (2021). LATERAL ORGAN BOUNDARIES DOMAIN 25 functions as a key regulator of haustorium development in dodders. *Plant Physiology* 186: 2093–2110. [doi:10.1093/plphys/kiab231](https://doi.org/10.1093/plphys/kiab231)
