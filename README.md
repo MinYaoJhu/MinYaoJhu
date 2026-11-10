@@ -52,7 +52,7 @@ Study notes, exercises and practice code from books and tools I have worked thro
 | Notes | Book or tool | Focus |
 |---|---|---|
 | <img src="https://raw.githubusercontent.com/MinYaoJhu/Advanced_R/main/assets/logo.svg" width="36" align="center"/> [**Advanced_R**](https://github.com/MinYaoJhu/Advanced_R) | *Advanced R*, 2nd ed. (Wickham) | R internals, functional & object-oriented programming, metaprogramming, performance |
-| [**R_for_Data_Science**](https://github.com/MinYaoJhu/R_for_Data_Science) | *R for Data Science*, 2nd ed. (Wickham, Çetinkaya-Rundel, Grolemund) | Data wrangling, visualization and reproducible workflows with the tidyverse |
+| <img src="https://raw.githubusercontent.com/MinYaoJhu/R_for_Data_Science/main/assets/logo.svg" width="36" align="center"/> [**R_for_Data_Science**](https://github.com/MinYaoJhu/R_for_Data_Science) | *R for Data Science*, 2nd ed. (Wickham, Çetinkaya-Rundel, Grolemund) | Data wrangling, visualization and reproducible workflows with the tidyverse |
 | [**Tidy_Modeling**](https://github.com/MinYaoJhu/Tidy_Modeling) | *Tidy Modeling with R* (Kuhn & Silge) | Statistical modeling and machine learning with tidymodels |
 | [**Deep_Learning_MinYaoJhu**](https://github.com/MinYaoJhu/Deep_Learning_MinYaoJhu) | *Deep Learning with R* (Manning) | Neural networks with Keras and TensorFlow in R |
 | [**OSTA_Practice_Repository**](https://github.com/MinYaoJhu/OSTA_Practice_Repository) | *Orchestrating Spatial Transcriptomics Analysis with Bioconductor* | Spatial transcriptomics with Bioconductor |
