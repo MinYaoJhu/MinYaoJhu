@@ -6,7 +6,7 @@ Plant developmental biologist using **spatial and single-cell transcriptomics** 
 [![Website](https://img.shields.io/badge/Website-minyaojhu.com-4B3F72?logo=googlechrome&logoColor=white)](https://www.minyaojhu.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Min--Yao%20Jhu-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8_dl65z_fZAC&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8654--0977-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8654-0977)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-min--yao--jhu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min-yao-jhu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-min--yao--jhu-0A66C2)](https://www.linkedin.com/in/min-yao-jhu)
 [![Bluesky](https://img.shields.io/badge/Bluesky-@minyaojhu-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/minyaojhu.bsky.social)
 
 ## 🔬 Research
@@ -30,7 +30,7 @@ Plant developmental biologist using **spatial and single-cell transcriptomics** 
 |---|---|
 | <img src="https://raw.githubusercontent.com/MinYaoJhu/MedicagoXeniumSpatialViewer/main/assets/logo.svg" width="40" align="center"/> [**MedicagoXeniumSpatialViewer**](https://github.com/MinYaoJhu/MedicagoXeniumSpatialViewer) | Interactive R Shiny app for exploring Xenium data: QC, clustering, tissue maps and marker genes. Tested with GitHub Actions · [DOI](https://doi.org/10.5281/zenodo.24093378) |
 | [**Medicago_Rhizobia_Xenium_Analysis_Workflow**](https://github.com/MinYaoJhu/Medicago_Rhizobia_Xenium_Analysis_Workflow) | Analysis pipeline for the 4D Xenium atlas of *Medicago* root nodules |
-| [**Medicago_Xenium_relabeling_resegmentation**](https://github.com/MinYaoJhu/Medicago_Xenium_relabeling_resegmentation) | Transcript relabeling and cell resegmentation pipelines for plant Xenium data |
+| [**Medicago_Xenium_relabeling_resegmentation**](https://github.com/MinYaoJhu/Medicago_Xenium_relabeling_resegmentation) | Xenium Ranger pipelines for transcript relabeling and H&E-based cell resegmentation used in the 4D nodule atlas · [DOI](https://doi.org/10.5281/zenodo.24095590) |
 | [**Xenium_data_analysis_training**](https://github.com/MinYaoJhu/Xenium_data_analysis_training) | A 4-week training program teaching new researchers Xenium data analysis in R |
 | [**Cuscuta_LCM_project**](https://github.com/MinYaoJhu/Cuscuta_LCM_project) | Laser capture microdissection RNA-seq of the *Cuscuta*–tomato haustorial interface |
 | [**CcLBD25_project**](https://github.com/MinYaoJhu/CcLBD25_project) | Analysis code for the discovery of *CcLBD25* as a key regulator of haustorium development |
