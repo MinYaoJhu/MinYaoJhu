@@ -32,7 +32,7 @@ Plant developmental biologist using **spatial and single-cell transcriptomics** 
 | [**Medicago_Rhizobia_Xenium_Analysis_Workflow**](https://github.com/MinYaoJhu/Medicago_Rhizobia_Xenium_Analysis_Workflow) | Analysis pipeline for the 4D Xenium atlas of *Medicago* root nodules |
 | <img src="https://raw.githubusercontent.com/MinYaoJhu/Medicago_Xenium_relabeling_resegmentation/main/assets/logo.svg" width="40" align="center"/> [**Medicago_Xenium_relabeling_resegmentation**](https://github.com/MinYaoJhu/Medicago_Xenium_relabeling_resegmentation) | Xenium Ranger pipelines for transcript relabeling and H&E-based cell resegmentation used in the 4D nodule atlas · [DOI](https://doi.org/10.5281/zenodo.24095590) |
 | [**Xenium_data_analysis_training**](https://github.com/MinYaoJhu/Xenium_data_analysis_training) | A 4-week training program teaching new researchers Xenium data analysis in R |
-| [**Cuscuta_LCM_project**](https://github.com/MinYaoJhu/Cuscuta_LCM_project) | Laser capture microdissection RNA-seq of the *Cuscuta*–tomato haustorial interface |
+| <img src="https://raw.githubusercontent.com/MinYaoJhu/Cuscuta_LCM_project/main/assets/logo.svg" width="40" align="center"/> [**Cuscuta_LCM_project**](https://github.com/MinYaoJhu/Cuscuta_LCM_project) | Laser capture microdissection RNA-seq of the *Cuscuta*–tomato haustorial interface, verified to re-run in 2026 |
 | [**CcLBD25_project**](https://github.com/MinYaoJhu/CcLBD25_project) | Analysis code for the discovery of *CcLBD25* as a key regulator of haustorium development |
 
 ## 📄 Selected publications
